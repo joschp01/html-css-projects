@@ -1,0 +1,62 @@
+html {background-color: rgb(146, 224, 180)}
+
+h1 {
+    color: solid black;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bold;
+    background: rgb(173, 20, 20);
+}
+
+a {
+    color: green;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    background-color: rebeccapurple;
+    text-decoration:rgb(168, 135, 135);
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    color: black;
+    background-color: salmon;
+}
+
+div {
+    margin: auto;
+    color: rebeccapurple;
+    background-color: rgb(196, 193, 193);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+ }
+
+h2 {
+    color: solid black;
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+    background: rgb(173, 20, 20);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold-and-brash {
+    font-weight: bold;
+    font-size: 30px;
+    color: maroon;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(144, 162, 241);
+}
+
