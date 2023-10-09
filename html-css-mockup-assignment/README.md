@@ -1,0 +1,1 @@
+Using the mockup picture, recreate the CSS style as closely as possible
